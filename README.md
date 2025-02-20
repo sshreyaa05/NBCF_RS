@@ -3,7 +3,6 @@
 This project focuses on predicting missing ratings and providing personalized recommendations using Neighborhood-Based Collaborative Filtering (CF) based on Pearson similarity. The dataset includes 5 users and 6 items, with some ratings missing. By leveraging both User-Based and Item-Based Collaborative Filtering, we aimed to predict the missing rating for User 3 on Item 6, and decide whether to recommend the item or not.
 
 ### Project Steps:
-
 1. Data Preprocessing:
 The dataset was preprocessed with standard scaling to normalize ratings, ensuring fair comparison between users and items.
 
