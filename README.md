@@ -20,4 +20,4 @@ Similarity between items was also determined using Pearson similarity, and User 
 The predicted rating r_hat(3,6) for User 3 on Item 6 was calculated. If the predicted rating is considerable for recommendation, the item should be recommended to the user else not.
 
 ### Conclusion: 
-By applying Pearson similarity in both User-Based and Item-Based Collaborative Filtering, we successfully predicted missing ratings and made personalized recommendations. This approach helps suggest relevant items to users based on their past ratings and preferences.
+By applying Pearson similarity in both User-Based and Item-Based Collaborative Filtering, we successfully predicted missing ratings and made personalized recommendations. Using User based approach the system do not recommend the item but using item based approach the system recommends the item 6 to user 3 based on its estimated rating.
